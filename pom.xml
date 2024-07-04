@@ -59,7 +59,7 @@
         </snapshotRepository>
         <repository>
             <id>nexusRepo</id>
-            <url>http://13.233.216.155:8081/repository/sample-relases/</url>
+            <url>http://18.61.119.111:8081/repository/sample-snapshots/</url>
         </repository>
     </distributionManagement>
 </project>
